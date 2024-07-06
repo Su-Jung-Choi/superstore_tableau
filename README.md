@@ -4,7 +4,7 @@
 
 ## 📚 Introduction
 
-This project involves building two interactive dashboards using Tableau to assist stakeholders, including sales managers and executives, in analyzing sales performance and customer data. The goal is to provide insightful visualizations that facilitate data-driven decision-making and enhance overall business strategies.
+This project involves building two interactive dashboards using Tableau to assist stakeholders, including sales managers and executives, in analyzing sales performance and customer data. The goal is to provide insightful visualizations that facilitate data-driven decision-making and enhance overall business strategies. The dataset contains the U.S. Sales data from 2020 to 2023.
 
 ## Star Schema Representation of the Database
 
@@ -16,7 +16,7 @@ This project involves building two interactive dashboards using Tableau to assis
 
 ### KPI Overview
 
-- Display a summary of total sales, profits, and quantity for the current year vs. the previous year.
+- Display a summary of `total sales`, `total profits`, and `total quantity` for the current year vs. the previous year.
 
 ### Sales Trends
 
@@ -35,11 +35,11 @@ This project involves building two interactive dashboards using Tableau to assis
 - highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
 ## ⚡ Customer Dashboard Key Requirements
-**The purpose of customer dashboard is to present an overview of the customer metrics and trends in order to analyze year-over-year 'sales per customer' performance and understand customer buying trends.**
+**The purpose of customer dashboard is to present an overview of the customer metrics and trends in order to analyze yearly per-customer sales performance and understand customer buying trends.**
 
 ### KPI Overview
 
-- Display a summary of total customers, sales per customer, and orders for the current year vs. the previous year.
+- Display a summary of `total customers`, `total sales per customer`, and `total orders` for the current year vs. the previous year.
 
 ### Customer Buying Trends
 
